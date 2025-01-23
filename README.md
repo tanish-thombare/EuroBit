@@ -25,10 +25,3 @@ The main challenge of the project was to create a webpage that interacts with an
 
 The project leverages the 7Timer API, a free and straightforward service that doesn't require API keys. This API serves as a reliable source for obtaining accurate and up-to-date weather forecasts for European cities.
 
-## Usage
-
-To experience the weather forecast feature, simply visit the webpage at [Eurobit](https.eurobit.netlify.app) and use the provided interface to look up the 7-day forecast for your desired European city.
-
-## Contributors
-
-- 10daer
